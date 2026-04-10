@@ -19,7 +19,7 @@ export default function Page() {
               Next.js Learn Course
             </a>
             , brought to you by Vercel.
-            <div className={styles.shape} />
+            
           </p>
           <Link
             href="/login"
